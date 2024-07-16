@@ -152,6 +152,10 @@ button:disabled {
         margin-top: 2rem;
     }
     body{
-        height:111vh;
+        height:100vh;
     }
+    .container {
+        width: 98%;
+        height: 98%;
+    }   
 }
